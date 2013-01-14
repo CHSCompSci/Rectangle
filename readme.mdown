@@ -8,11 +8,8 @@ The program tells the area, perimeter, if it's a square, and it then draws out t
 Examples
 ====
 
-<img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.52%20PM.png">
-
+<img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.52%20PM.png"> 
 <img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.59%20PM.png">
-
-
 
 Installation
 ====
