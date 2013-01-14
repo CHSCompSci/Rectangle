@@ -17,6 +17,9 @@ public class rectangleTester
     System.out.print("Area: ");
     System.out.println("2(" + x.getLength() + " + " + x.getWidth() +  ") = " + x.computePerimeter());
     
-    
+    //Perimeter
+    System.out.print("Perimeter: ");
+    System.out.println(x.getLength() + " x " + x.getWidth() + " = " +  x.computeArea());
+    System.out.println();
   }
 }
