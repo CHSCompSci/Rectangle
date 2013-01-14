@@ -19,7 +19,7 @@ First, clone the repository via your command prompt.
 		$ git clone https://github.com/CHSCompSci/Rectangle.git
 		$ cd Rectangle/src
 
-Once the files have been downloaded, and your Terminal directory has been changed to point to the Grader project, you can now test it out.
+Once the files have been downloaded, and your Terminal directory has been changed to point to the Rectangle project, you can now test it out.
 
 		$ javac rectangleTester.java
 		$ java rectangleTester
