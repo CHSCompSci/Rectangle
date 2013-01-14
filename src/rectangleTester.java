@@ -4,9 +4,11 @@ public class rectangleTester
    public static void main(String [] args) {
     Scanner reader = new Scanner(System.in);
     
+    //User-inputted length
     System.out.print("Enter the length: ");
     int length = reader.nextInt();
     
+    //User-inputted width
     System.out.print("Enter the width: ");
     int width = reader.nextInt();
     
