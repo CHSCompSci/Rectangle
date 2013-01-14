@@ -5,6 +5,8 @@ Rectangle is a Java program that tells users if their inputted dimensions become
 
 The program tells the area, perimeter, if it's a square, and it then draws out the quadrilateral with the dimensions you appointed. 
 
+Computer Science Club will be using this program as a way to teach students about Java's classes and boolean statements.
+
 Examples
 ====
 
