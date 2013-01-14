@@ -21,13 +21,19 @@ public class rectangleTester
     System.out.print("Perimeter: ");
     System.out.println(x.getLength() + " x " + x.getWidth() + " = " +  x.computeArea());
     System.out.println();
-
+    
     //Square Boolean
-    if (x.squareTest()) 
+    if (x.squareTest()) {
         System.out.println("The rectangle is a square.");
-    else 
+    }
+    else {
         System.out.println("The rectangle is not a square.");
+    }
 
-
+    System.out.println();
+    
+    //Draws the quadrilateral of *'s
+    x.drawRectangle();
+    System.out.println();
   }
 }
