@@ -1,0 +1,30 @@
+Rectangle
+====
+
+Rectangle is a Java program that tells users if their inputted dimensions become a square, or remain a rectangle. 
+
+The program tells the area, perimeter, if it's a square, and it then draws out the quadrilateral with the dimensions you appointed. 
+
+Examples
+====
+
+<img src="https://raw.github.com/CHSCompSci/Rectangle/master/src/Screen%20Shot%202013-01-13%20at%206.40.52%20PM.png">
+
+<img src="https://raw.github.com/CHSCompSci/Rectangle/master/src/Screen%20Shot%202013-01-13%20at%206.40.59%20PM.png">
+
+
+
+Installation
+====
+
+First, clone the repository via your command prompt.
+
+		$ git clone https://github.com/CHSCompSci/Rectangle.git
+		$ cd Rectangle/src
+
+Once the files have been downloaded, and your Terminal directory has been changed to point to the Grader project, you can now test it out.
+
+		$ javac rectangleTester.java
+		$ java rectangleTester
+
+As mentioned, the program will execute its primary functions. To edit to your liking, open rectangle.java or rectangleTester files in the /src folder. Within your Java IDE, you can now add/change features. 
