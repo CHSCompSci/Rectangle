@@ -41,6 +41,7 @@ public class rectangle
         }
     }
     
+    //Square boolean linked to Tester class
     public boolean squareTest () {
         if (length == width)
             return true;
