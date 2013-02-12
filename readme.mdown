@@ -18,12 +18,12 @@ Installation
 
 First, clone the repository via your command prompt.
 
-		$ git clone https://github.com/CHSCompSci/Rectangle.git
-		$ cd Rectangle/src
+	$ git clone https://github.com/CHSCompSci/Rectangle.git
+	$ cd Rectangle/src
 
 Once the files have been downloaded, and your Terminal directory has been changed to point to the Rectangle project, you can now test it out.
 
-		$ javac rectangleTester.java
-		$ java rectangleTester
+	$ javac rectangleTester.java
+	$ java rectangleTester
 
 As mentioned, the program will execute its primary functions. To edit to your liking, open rectangle.java or rectangleTester files in the /src folder. Within your Java IDE, you can now add/change features. 
