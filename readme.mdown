@@ -10,7 +10,7 @@ Computer Science Club will be using this program as a way to teach students abou
 Examples
 ====
 
-<img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.52%20PM.png" height="240" width="320"><img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.59%20PM.png" height="240" width="320"> 
+<img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.52%20PM.png" height="300" width="425"><img src="https://raw.github.com/CHSCompSci/Rectangle/master/bin/Screen%20Shot%202013-01-13%20at%206.40.59%20PM.png" height="300" width="425"> 
 
 Installation
 ====
